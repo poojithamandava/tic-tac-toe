@@ -1,1 +1,2 @@
-this is a game created using python
+TIC TAC TOE
+This is a game created using python
